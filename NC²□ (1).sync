@@ -1,6 +1,6 @@
-NC.².sync = {
+NC².sync = {
     id: "NC².sync",
-    axis: "□",          # Quadrat-Achse
+    axis: "□",
     dual: "NC².dual",
     merge: "NC².merge",
     align: "NC².align",
